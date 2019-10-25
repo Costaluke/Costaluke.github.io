@@ -1,0 +1,21 @@
+#portfolioHeader
+{
+    height: 15%;
+}
+
+#portfolioBody
+{
+    height: 70%;
+}
+
+#portfolioFooter
+{
+    height: 15%;
+}
+
+.pageLayout
+{
+    background-color: red !important;
+}
+
+
